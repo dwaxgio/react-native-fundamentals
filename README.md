@@ -1,8 +1,11 @@
 # React Native mobile application
 
+![](little_lemon.gif)
+
 This is React Native mobile application.
 
 The app allows users to:
+
 - View a welcome screen with the Little Lemon logo and introductory message.
 - Navigate to a subscribe screen.
 - Enter a valid email address.
@@ -15,8 +18,6 @@ The app allows users to:
 - **JavaScript / JSX**
 - **Expo Go** (for running the app on mobile)
 - **Alert module** from React Native
-
-![](little_lemon.gif)
 
 ---
 
